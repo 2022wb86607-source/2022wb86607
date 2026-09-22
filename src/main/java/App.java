@@ -2,7 +2,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        System.out.println("2022wb86607");
+        System.out.println("continuous integration successful");
 
     }
 
